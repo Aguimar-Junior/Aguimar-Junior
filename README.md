@@ -1,6 +1,6 @@
 - 👋 Olá, sou @Aguimar-Junior
 - 👀 Estou interessado em Programação
-- 🌱 Atualmente faço faculdade de Análise e Desenvolvimento de Sistemas
+- 🌱 Graduado em Análise e Desenvolvimento de Sistemas
 - 📬 Contate-me no email: aguimar-junior@outlook.com  
 - 👉🏼 https://www.linkedin.com/in/aguimar-junior
 
