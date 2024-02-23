@@ -1,6 +1,6 @@
 - 👋 Olá, sou @Aguimar-Junior
-- 👀 Estou interessado em Programação
-- 🌱 Graduado em Análise e Desenvolvimento de Sistemas
+- 💻 Graduado em Análise e Desenvolvimento de Sistemas
+- 📱 Pós-graduado em Desenvolvimento Mobile
 - 📬 Contate-me no email: aguimar-junior@outlook.com  
 - 👉🏼 https://www.linkedin.com/in/aguimar-junior
 
